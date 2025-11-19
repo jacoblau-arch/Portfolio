@@ -16,3 +16,5 @@ Includes:
 - NAT overload at the router edge
 - ACL-based segmentation (Admin, Office, Server, IoT, Guest, Management)
 - Cisco device hardening for secure management
+
+**[Download Full PDF](Secure%20Multi%20VLAN%20Small%20Business%20Network%20-%20Jacob%20Lau.pdf)**
