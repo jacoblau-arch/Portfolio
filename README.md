@@ -18,3 +18,5 @@ Includes:
 - Cisco device hardening for secure management
 
 **[Download Full PDF](Secure%20Multi%20VLAN%20Small%20Business%20Network%20-%20Jacob%20Lau.pdf)**
+
+<img width="770" height="481" alt="スクリーンショット 2025-11-20 030904" src="https://github.com/user-attachments/assets/73554d2b-6e61-48a7-81c2-e3ac7db13d94" />
